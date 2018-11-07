@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#fafafa</color>
+    <color name="colorPrimary">#000</color>
     <color name="colorPrimaryDark">#f0f0f0</color>
     <color name="colorAccent">#D81B60</color>
 
+    <color name="toolbarColor">#fafafa</color>
     <color name="golgelik">#dbdbdb</color>
+
+    <color name="siyah">#000000</color>
+    <color name="beyaz">#ffffff</color>
+
+    <color name="mavi">#3997f0</color>
 </resources>
